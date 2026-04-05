@@ -1,5 +1,3 @@
-# portfolio-generator-pro
-Create stunning developer portfolios in seconds. Auto-fetch GitHub projects, customize themes. Zero coding required
 # 🎨 DevFolio Pro
 
 &gt; Create stunning, professional developer portfolios in **2.3 seconds**. 
@@ -9,7 +7,7 @@ Create stunning developer portfolios in seconds. Auto-fetch GitHub projects, cus
 [![Forks](https://img.shields.io/github/forks/yourusername/devfolio-pro?style=social)](https://github.com/yourusername/devfolio-pro/network)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[🚀 Live Demo](https://yourusername.github.io/devfolio-pro) • [📖 Documentation](#) • [🐛 Report Bug](../../issues)
+[📖 Documentation](#usage) • [🐛 Report Bug](../../issues)
 
 ---
 
@@ -28,13 +26,7 @@ Create stunning developer portfolios in seconds. Auto-fetch GitHub projects, cus
 
 ## 🚀 Quick Start
 
-### Option 1: Use Online (Fastest)
-1. Visit [Live Demo](https://yourusername.github.io/devfolio-pro)
-2. Enter your details
-3. Download your portfolio
-
-### Option 2: Run Locally
 ```bash
 git clone https://github.com/yourusername/devfolio-pro.git
 cd devfolio-pro
-open index.html  # or double-click
+open index.html  # or double-click to open in browser
