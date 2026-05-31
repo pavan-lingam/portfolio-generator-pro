@@ -1,0 +1,39 @@
+> Create stunning, professional developer portfolios in 2.3 seconds. > Zero coding. Auto-fetch GitHub projects. Live preview. One-click deploy.
+
+
+
+Stars Forks License: MIT
+
+
+
+📖 Documentation • 🐛 Report Bug
+
+
+
+✨ Features
+
+🤖 Auto-Fetch - Pulls your real GitHub repos, stars, and languages
+
+🖼️ Auto-Generate - Creates project screenshots and thumbnails
+
+🎨 4 Themes - Ocean, Purple, Forest, Sunset gradients
+
+📱 4 Layouts - Modern Grid, Minimal List, Masonry, Showcase
+
+📸 Photo Upload - Use your own profile picture
+
+📞 Contact Cards - Email, Phone, LinkedIn, Twitter, Location
+
+⚡ Zero Dependencies - Single HTML file, no build step
+
+🎯 One-Click Export - Download or copy complete portfolio
+
+🚀 Quick Start
+
+live demo: https://pavan-lingam.github.io/portfolio-generator-pro/
+
+git clone https://github.com/yourusername/devfolio-pro.git
+
+cd devfolio-pro
+
+open index.html  # or double-click to open in browser
